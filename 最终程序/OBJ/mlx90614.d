@@ -1,0 +1,17 @@
+..\obj\mlx90614.o: ..\SYSTEM\mlx90614\mlx90614.c
+..\obj\mlx90614.o: ..\SYSTEM\mlx90614\mlx90614.h
+..\obj\mlx90614.o: ..\SYSTEM\sys\stm32f10x.h
+..\obj\mlx90614.o: ..\SYSTEM\sys\core_cm3.h
+..\obj\mlx90614.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+..\obj\mlx90614.o: ..\SYSTEM\sys\system_stm32f10x.h
+..\obj\mlx90614.o: ..\inc\stm32f10x_conf.h
+..\obj\mlx90614.o: ..\inc\RTE_Components.h
+..\obj\mlx90614.o: ..\SYSTEM\mlx90614\stm32f10x_gpio.h
+..\obj\mlx90614.o: ..\SYSTEM\mlx90614\stm32f10x_rcc.h
+..\obj\mlx90614.o: ..\SYSTEM\sys\sys.h
+..\obj\mlx90614.o: ..\SYSTEM\OLED\oled.h
+..\obj\mlx90614.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+..\obj\mlx90614.o: ..\SYSTEM\delay\delay.h
+..\obj\mlx90614.o: ..\user_defined\warning.h
+..\obj\mlx90614.o: ..\inc\stm32f10x_gpio.h
+..\obj\mlx90614.o: ..\inc\stm32f10x_rcc.h

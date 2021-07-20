@@ -1,0 +1,13 @@
+..\obj\warning.o: ..\user_defined\warning.c
+..\obj\warning.o: ..\user_defined\warning.h
+..\obj\warning.o: ..\SYSTEM\delay\delay.h
+..\obj\warning.o: ..\SYSTEM\sys\sys.h
+..\obj\warning.o: ..\SYSTEM\sys\stm32f10x.h
+..\obj\warning.o: ..\SYSTEM\sys\core_cm3.h
+..\obj\warning.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+..\obj\warning.o: ..\SYSTEM\sys\system_stm32f10x.h
+..\obj\warning.o: ..\inc\stm32f10x_conf.h
+..\obj\warning.o: ..\inc\RTE_Components.h
+..\obj\warning.o: ..\inc\stm32f10x_gpio.h
+..\obj\warning.o: ..\inc\stm32f10x_rcc.h
+..\obj\warning.o: ..\SYSTEM\LED\led.h

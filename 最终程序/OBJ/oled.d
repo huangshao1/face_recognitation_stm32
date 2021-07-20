@@ -1,0 +1,14 @@
+..\obj\oled.o: ..\SYSTEM\OLED\oled.c
+..\obj\oled.o: ..\SYSTEM\OLED\oled.h
+..\obj\oled.o: ..\SYSTEM\sys\sys.h
+..\obj\oled.o: ..\SYSTEM\sys\stm32f10x.h
+..\obj\oled.o: ..\SYSTEM\sys\core_cm3.h
+..\obj\oled.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+..\obj\oled.o: ..\SYSTEM\sys\system_stm32f10x.h
+..\obj\oled.o: ..\inc\stm32f10x_conf.h
+..\obj\oled.o: ..\inc\RTE_Components.h
+..\obj\oled.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+..\obj\oled.o: ..\SYSTEM\OLED\oledfont.h
+..\obj\oled.o: ..\SYSTEM\delay\delay.h
+..\obj\oled.o: ..\inc\stm32f10x_gpio.h
+..\obj\oled.o: ..\inc\stm32f10x_rcc.h

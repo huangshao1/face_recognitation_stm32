@@ -1,0 +1,9 @@
+..\obj\stm32f10x_usart.o: ..\src\stm32f10x_usart.c
+..\obj\stm32f10x_usart.o: ..\inc\stm32f10x_usart.h
+..\obj\stm32f10x_usart.o: ..\SYSTEM\sys\stm32f10x.h
+..\obj\stm32f10x_usart.o: ..\SYSTEM\sys\core_cm3.h
+..\obj\stm32f10x_usart.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+..\obj\stm32f10x_usart.o: ..\SYSTEM\sys\system_stm32f10x.h
+..\obj\stm32f10x_usart.o: ..\inc\stm32f10x_conf.h
+..\obj\stm32f10x_usart.o: ..\inc\RTE_Components.h
+..\obj\stm32f10x_usart.o: ..\inc\stm32f10x_rcc.h

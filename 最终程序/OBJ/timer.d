@@ -1,0 +1,17 @@
+..\obj\timer.o: ..\SYSTEM\TIMER\timer.c
+..\obj\timer.o: ..\SYSTEM\TIMER\timer.h
+..\obj\timer.o: ..\SYSTEM\sys\sys.h
+..\obj\timer.o: ..\SYSTEM\sys\stm32f10x.h
+..\obj\timer.o: ..\SYSTEM\sys\core_cm3.h
+..\obj\timer.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+..\obj\timer.o: ..\SYSTEM\sys\system_stm32f10x.h
+..\obj\timer.o: ..\inc\stm32f10x_conf.h
+..\obj\timer.o: ..\inc\RTE_Components.h
+..\obj\timer.o: ..\SYSTEM\LED\led.h
+..\obj\timer.o: ..\SYSTEM\usart\usart.h
+..\obj\timer.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+..\obj\timer.o: ..\inc\stm32f10x_usart.h
+..\obj\timer.o: ..\inc\stm32f10x_rcc.h
+..\obj\timer.o: ..\inc\stm32f10x_gpio.h
+..\obj\timer.o: ..\inc\misc.h
+..\obj\timer.o: ..\inc\stm32f10x_tim.h
