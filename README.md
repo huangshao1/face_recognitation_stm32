@@ -1,0 +1,2 @@
+# face_recognitation_stm32
+openMV人脸识别与stm32红外检测代码
